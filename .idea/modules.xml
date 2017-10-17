@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dantflix.iml" filepath="$PROJECT_DIR$/dantflix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/life.dant.dantflix.iml" filepath="$PROJECT_DIR$/.idea/modules/life.dant.dantflix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/life.dant.dantflix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/life.dant.dantflix_main.iml" group="life.dant.dantflix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/life.dant.dantflix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/life.dant.dantflix_test.iml" group="life.dant.dantflix" />
+    </modules>
+  </component>
+</project>

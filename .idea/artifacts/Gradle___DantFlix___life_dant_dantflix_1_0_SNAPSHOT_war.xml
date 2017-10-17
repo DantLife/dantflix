@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : DantFlix : life.dant.dantflix-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/life.dant.dantflix/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/life.dant.dantflix" />
+    </properties>
+    <root id="archive" name="life.dant.dantflix-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : DantFlix : life.dant.dantflix-1.0-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>
